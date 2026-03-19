@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, Node.js, Python, AI/LLMs, product thinking, and building MVPs fast.**
 
-- 📫 How to reach me **sgupta62@usc.edu**
+- 📫 How to reach me **sarthakgupta0206@gmail.com**
 
 - ⚡ Fun fact **I’ve worked across Microsoft, Disney, and healthcare analytics, and I enjoy turning messy ideas into shippable products.**
 
