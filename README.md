@@ -1,6 +1,5 @@
 # Hi 👋, I'm Sarthak Gupta
 
-### Bridging the gap between tech and management
 
 - 🔭 I'm currently working on **A full-stack AI agent focused on real-world automation and decision support (LLMs, APIs, orchestration, and system design).**
 
