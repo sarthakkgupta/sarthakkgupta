@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I’ve worked across Microsoft, Disney, and healthcare analytics, and I enjoy turning messy ideas into shippable products.**
 
-- 📄 Know about my experiences **https://drive.google.com/file/d/1VXrLIzp01PXHGVDc2ETwa6tPnZ3attnd/view?usp=sharing**
+- 📄 Know about my experiences **https://portfolio-ashy-seven-66.vercel.app/*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
