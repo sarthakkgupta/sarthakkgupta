@@ -85,8 +85,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/sarthakkgupta?theme=dark&ext=heatmap" />
-  <img src="https://leetcard.jacoblin.cool/sarthakkgupta?theme=light&ext=heatmap" alt="LeetCode stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/sarthakkgupta?theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/sarthakkgupta?theme=light" alt="LeetCode stats" />
 </picture>
 
 </div>
