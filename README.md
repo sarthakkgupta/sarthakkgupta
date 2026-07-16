@@ -76,11 +76,17 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarthakkgupta&theme=default" height="165" alt="most used languages" />
 </picture>
 
-<br>
+</div>
+
+---
+
+### 🧩 LeetCode
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sarthakkgupta&hide_border=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakkgupta&hide_border=true&theme=default" height="165" alt="streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/sarthakkgupta?theme=dark&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/sarthakkgupta?theme=light&ext=heatmap" alt="LeetCode stats" />
 </picture>
 
 </div>
